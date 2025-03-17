@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741847969922/wex.txt;md5;ab968ea6d272873e2930aa1ae1679159",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742201670500/wex.txt;md5;02d333465bb0e63927fcca2eaa9402c6",
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
   "sites": [
@@ -119,6 +119,14 @@
       "name": "💓肥猫┃4K💓",
       "type": 3,
       "api": "csp_WexfeimaoziyuanGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WextexiafanGuard",
+      "name": "💓下饭┃4K💓",
+      "type": 3,
+      "api": "csp_WextexiafanGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -363,6 +371,14 @@
       "name": "🍉短剧┃免费🍉",
       "type": 3,
       "api": "csp_WexduanjuvipGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexvipduanju",
+      "name": "🍉短剧┃综合🍉",
+      "type": 3,
+      "api": "csp_WexvipduanjuGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -699,6 +715,14 @@
       "changeable": 0
     },
     {
+      "key": "WexTJso",
+      "name": "🎠TJ┃综合🎠",
+      "type": 3,
+      "api": "csp_WexTJsoGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "Wextyso",
       "name": "🎠给力┃天逸🎠",
       "type": 3,
@@ -944,6 +968,12 @@
     "pv.vipwm.cc"
   ],
   "lives": [
+    {
+      "name": "BJTV",
+      "type": 0,
+      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742130501942/bjtv.txt",
+      "playerType": 1
+    },
     {
       "name": "钵钵鸡(四网通用)",
       "type": 0,
