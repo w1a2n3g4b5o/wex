@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742201670500/wex.txt;md5;02d333465bb0e63927fcca2eaa9402c6",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743156196291/wex.txt;md5;e2d407df1191777ce506ef1896142098",
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
   "sites": [
@@ -46,6 +46,14 @@
       "name": "💓‍二小┃4K💓‍",
       "type": 3,
       "api": "csp_WexerxiaoziyuanGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexxzysGuard",
+      "name": "💓校长┃4K💓",
+      "type": 3,
+      "api": "csp_WexxzysGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -131,18 +139,18 @@
       "changeable": 1
     },
     {
-      "key": "WexxzysGuard",
-      "name": "💓校长┃4K💓",
-      "type": 3,
-      "api": "csp_WexxzysGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "盘他",
       "name": "💓‍盘他┃4K💓‍",
       "type": 3,
       "api": "csp_WexYDpantaGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexpan123ziyuanGuard",
+      "name": "💓‍123┃4K💓‍",
+      "type": 3,
+      "api": "csp_Wexpan123ziyuanGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -783,6 +791,30 @@
       "name": "💓我的┃异动💓‍",
       "type": 3,
       "api": "csp_WexWoydpanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "xunlei",
+      "name": "💓我的┃讯蕾💓‍",
+      "type": 3,
+      "api": "csp_WexWoXunLeiPanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "baidu",
+      "name": "💓我的┃百度💓‍",
+      "type": 3,
+      "api": "csp_WexWoBaiduPanGuard",
       "searchable": 1,
       "changeable": 1,
       "timeout": 50,
