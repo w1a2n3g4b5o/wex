@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-05-31 14:17:08 <<<
+//      >>> 当前时间是：2025-06-04 15:29:44 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
-//  当前接口：http://tvbox.王二小放牛娃.top/
+//  当前接口：http://tvbox.王二小放牛娃.top
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748106516861/wex.txt;md5;dfbd66450ef0f2da6f694082bfd7f72a",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748967755513/wex.txt;md5;5fc25a9f6e29f66e90bb9e08b3617f6c",
 "wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
@@ -53,11 +53,9 @@
 {"key":"Wexshandian","name":"🌺闪电┃秒播🌺","type":3,"api":"csp_WexshandianGuard","searchable":1,"changeable":1},
 {"key":"Wexduanjuquark","name":"🍉短剧┃夸克🍉","type":3,"api":"csp_WexduanjuquarkGuard","searchable":1,"changeable":1,"style":{"type":"list"}},
 {"key":"Wexduanjuvip","name":"🍉短剧┃免费🍉","type":3,"api":"csp_WexduanjuvipGuard","searchable":1,"changeable":1},
-{"key":"Wexvipduanju","name":"🍉短剧┃综合🍉","type":3,"api":"csp_WexvipduanjuGuard","searchable":1,"changeable":1},
 {"key":"Wexduanjuvop","name":"🍉短剧┃秒播🍉","type":3,"api":"csp_WexduanjuvopGuard","searchable":1,"changeable":1},
 {"key":"Wexduanjuhema","name":"🍉短剧┃仙品🍉","type":3,"api":"csp_WexduanjuhemaGuard","searchable":1,"changeable":1},
 {"key":"WexduanjuvmpGuard","name":"🍉短剧┃帝品🍉","type":3,"api":"csp_WexduanjuvmpGuard","searchable":1,"changeable":1},
-{"key":"Wexduanju001","name":"🍉短剧┃极品🍉","type":3,"api":"csp_Wexduanju001Guard","searchable":1,"changeable":1},
 {"key":"Wexlaobaitingshu","name":"🎃‍白兔┃听书🎃","type":3,"api":"csp_WexlaobaitingshuGuard","searchable":1,"changeable":1},
 {"key":"Wex275tingshu","name":"🎃‍极品┃听书🎃","type":3,"api":"csp_Wex275tingshuGuard","searchable":1,"changeable":1},
 {"key":"Wexliyuan","name":"🎎戏曲┃秒播🎎","type":3,"api":"csp_WexliyuanGuard","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2}},
