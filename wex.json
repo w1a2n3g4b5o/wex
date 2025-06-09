@@ -1,10 +1,10 @@
 
-//      >>> 当前时间是：2025-06-04 15:29:44 <<<
+//      >>> 当前时间是：2025-06-09 11:55:14 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://tvbox.王二小放牛娃.top
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748967755513/wex.txt;md5;5fc25a9f6e29f66e90bb9e08b3617f6c",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749189259853/wex.png;md5;ff202a451154e4790ef50cc8cdbdb1f8",
 "wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
@@ -17,7 +17,6 @@
 {"key":"Wexzhizhen","name":"💓至臻┃4K💓","type":3,"api":"csp_WexzhizhenGuard","searchable":1,"changeable":1},
 {"key":"Wexnullname","name":"💓无名┃4K💓","type":3,"api":"csp_WexnullnameGuard","searchable":1,"changeable":1,"timeout":120},
 {"key":"WexZHyunchao","name":"💓云巢┃4K💓","type":3,"api":"csp_WexZHyunchaoGuard","searchable":1,"changeable":1,"timeout":120},
-{"key":"WexPanku8","name":"💓盘库┃4K💓","type":3,"api":"csp_WexPanku8Guard","searchable":1,"changeable":1,"timeout":120},
 {"key":"WexTuanZhangGuard","name":"💓团长┃4K💓","type":3,"api":"csp_WexTuanZhangGuard","searchable":1,"changeable":1,"timeout":120},
 {"key":"Wexmuougg","name":"💓木偶┃4K💓","type":3,"api":"csp_WexmuouggGuard","searchable":1,"changeable":1},
 {"key":"Wexyingchao","name":"💓鸟巢┃4K💓","type":3,"api":"csp_WexyingchaoGuard","searchable":1,"changeable":1},
