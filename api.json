@@ -17,7 +17,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260601】🐮",
+            "name": "🐮【更新日期:20260621】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -94,14 +94,6 @@
             "changeable": 1
         },
         {
-            "key": "NewShaYang",
-            "name": "💓傻样┃4K💓",
-            "type": 3,
-            "api": "csp_NewShaYangGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "NewMuOu",
             "name": "💓木偶┃4K💓",
             "type": 3,
@@ -123,14 +115,6 @@
             "name": "💓‍原盘┃4K💓‍",
             "type": 3,
             "api": "csp_New4KZnGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "雷鲸",
-            "name": "💓‍雷鲸┃4K💓‍",
-            "type": 3,
-            "api": "csp_NewLeiJingGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -199,6 +183,22 @@
             "changeable": 1
         },
         {
+            "key": "WexV6DaShiXiong",
+            "name": "💥师兄┃秒播💥",
+            "type": 3,
+            "api": "csp_WexV6DaShiXiongGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "WexV6TeGou",
+            "name": "💥太狗┃秒播💥",
+            "type": 3,
+            "api": "csp_WexV6TeGouGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "WexYiYs",
             "name": "💥伊影┃秒播💥",
             "type": 3,
@@ -219,14 +219,6 @@
             "name": "🎇伯伯┃秒播🎇",
             "type": 3,
             "api": "csp_WexBoBoGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexBtTwo",
-            "name": "🎇鼻涕┃秒播🎇",
-            "type": 3,
-            "api": "csp_WexBtTwoGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -311,22 +303,6 @@
             "changeable": 1
         },
         {
-            "key": "AnimeMoDu",
-            "name": "🤡魔都┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeMoDuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "AnimeGiriGiri",
-            "name": "🤡小爱┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeGiriGiriGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "AnimeFanShu",
             "name": "🤡番薯┃动漫🤡",
             "type": 3,
@@ -335,10 +311,34 @@
             "changeable": 1
         },
         {
-            "key": "AnimeXiFan",
-            "name": "🤡稀饭┃动漫🤡",
+            "key": "AnimeAoWuGuard",
+            "name": "🤡嗷呜┃动漫🤡",
             "type": 3,
-            "api": "csp_AnimeXiFanGuard",
+            "api": "csp_AnimeAoWuGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AnimeFanChaGuard",
+            "name": "🤡饭茶┃动漫🤡",
+            "type": 3,
+            "api": "csp_AnimeFanChaGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AnimeMiaoWuGuard",
+            "name": "🤡喵呜┃动漫🤡",
+            "type": 3,
+            "api": "csp_AnimeMiaoWuGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AnimeMoDu",
+            "name": "🤡魔都┃动漫🤡",
+            "type": 3,
+            "api": "csp_AnimeMoDuGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -606,6 +606,17 @@
             }
         },
         {
+            "key": "SportFeiQiu",
+            "name": "🌐飞球┃体育🌐",
+            "type": 3,
+            "api": "csp_SportFeiQiuGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "SportGuaZi",
             "name": "🌐瓜子┃体育🌐",
             "type": 3,
@@ -634,6 +645,17 @@
             "api": "csp_SportKanqiuGuard",
             "searchable": 1,
             "changeable": 0
+        },
+        {
+            "key": "SportKaFei",
+            "name": "🌐咖啡┃体育🌐",
+            "type": 3,
+            "api": "csp_SportKaFeiGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "SportWwe",
@@ -743,6 +765,18 @@
             }
         },
         {
+            "key": "Fake115Share",
+            "name": "💓115┃分享💓‍",
+            "type": 3,
+            "api": "csp_Fake115ShareGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "MyPan123",
             "name": "💓我的┃123💓‍",
             "type": 3,
@@ -779,34 +813,10 @@
             "changeable": 0
         },
         {
-            "key": "SoTjSo",
-            "name": "🎠太极┃综合🎠",
-            "type": 3,
-            "api": "csp_SoTjSoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoAiPan",
-            "name": "🎠给力┃综合🎠",
-            "type": 3,
-            "api": "csp_SoAiPanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "So97So",
             "name": "🎠九七┃综合🎠",
             "type": 3,
             "api": "csp_So97SoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoZhaoPanSo",
-            "name": "🎠找盘┃综合🎠",
-            "type": 3,
-            "api": "csp_SoZhaoPanSoGuard",
             "searchable": 1,
             "changeable": 0
         },
