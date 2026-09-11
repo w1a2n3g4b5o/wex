@@ -1,29 +1,29 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/09/06/c9b7ce360a5900c3d089681cf0af7b35.jpg;md5;9f55040b32bfe4a5c9a2353cdef51544",
+  "spider": "./21bf5077bc286e074ee40ba1d527e814.jpg;md5;bd387114ab7a7078f8ae8f120c733907",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
     {
       "key": "Douban",
-      "name": "🐮【王二小放牛娃】🐮",
+      "name": "🐮【免费分享】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
+      "ext": "./lib/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20260906】🐮",
+      "name": "🐮【更新日期:20260911】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
+      "ext": "./lib/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "Wexconfig",
@@ -50,15 +50,6 @@
       }
     },
     {
-      "key": "二小",
-      "name": "💓‍指南┃4K💓‍",
-      "type": 3,
-      "api": "csp_AiNewXiaoPanGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "玩偶",
       "name": "💓‍玩偶┃4K💓‍",
       "type": 3,
@@ -81,24 +72,6 @@
       "name": "💓‍七味┃4K💓‍",
       "type": 3,
       "api": "csp_AiQwMkvGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "NewZhiZhen",
-      "name": "💓至臻┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewZhiZhenGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AiNewPanLian",
-      "name": "💓盘链┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewPanLianGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -846,7 +819,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
+        "json": "./lib/bili001.txt"
       }
     },
     {
@@ -863,7 +836,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
+        "json": "./lib/183E562_773_xiqu_20251130182006749newMediaImage.txt"
       }
     },
     {
@@ -880,7 +853,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+        "json": "./lib/bilisong.txt"
       }
     },
     {
@@ -896,7 +869,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
+        "json": "./lib/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
       }
     },
     {
@@ -912,7 +885,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
+        "json": "./lib/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
       }
     },
     {
@@ -928,7 +901,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
+        "json": "./lib/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
       }
     },
     {
@@ -944,7 +917,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
+        "json": "./lib/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
       }
     },
     {
@@ -1172,7 +1145,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "./lib/iptv.m3u",
       "playerType": 2
     },
     {
