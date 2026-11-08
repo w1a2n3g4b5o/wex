@@ -1,5 +1,5 @@
 {
-  "spider": "./9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/11/06/99191348af7606ed51e66a4f13a85d8e.jpg;md5;53e039fb19875d5cfec02a0910399ffd",
   "wallpaper": "https://www.loliapi.com/acg/",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -12,18 +12,18 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/20260414181247-ae51abfbfe.txt"
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20261010】🐮",
+      "name": "🐮【更新日期:20261106】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/20260414181247-ae51abfbfe.txt"
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "Wexconfig",
@@ -261,6 +261,15 @@
       "name": "💥贱片┃秒播💥",
       "type": 3,
       "api": "csp_WexAiJianPianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "下饭",
+      "name": "💥下饭┃秒播💥",
+      "type": 3,
+      "api": "csp_WexAiJuXiaFanGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -537,6 +546,14 @@
       "changeable": 0
     },
     {
+      "key": "AnimeAiGongHeGuo",
+      "name": "🤡共和┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeAiGongHeGuoGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "AnimeXiFan",
       "name": "🤡稀饭┃动漫🤡",
       "type": 3,
@@ -573,14 +590,6 @@
       "name": "🎃‍小马┃听书🎃",
       "type": 3,
       "api": "csp_BookHeMaGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "BookAiShiJie",
-      "name": "🎃‍极品┃听书🎃",
-      "type": 3,
-      "api": "csp_BookAiShiJieGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -855,7 +864,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bili001.txt"
+        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
       }
     },
     {
@@ -872,7 +881,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/183E562_773_xiqu_20251130182006749newMediaImage.txt"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
       }
     },
     {
@@ -889,7 +898,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bilisong.txt"
+        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
       }
     },
     {
@@ -905,7 +914,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
       }
     },
     {
@@ -921,7 +930,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
       }
     },
     {
@@ -937,7 +946,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
       }
     },
     {
@@ -953,7 +962,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
       }
     },
     {
@@ -973,14 +982,6 @@
       "changeable": 0
     },
     {
-      "key": "SoAiQuPanShe",
-      "name": "🎠趣搜┃百度🎠",
-      "type": 3,
-      "api": "csp_SoAiQuPanSheGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "SoAiAiPanSo",
       "name": "🎠爱盘┃综合🎠",
       "type": 3,
@@ -993,6 +994,14 @@
       "name": "🎠卡卡┃综合🎠",
       "type": 3,
       "api": "csp_SoKaKaGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "SoAiQuanPanGuard",
+      "name": "🎠全盘┃综合🎠",
+      "type": 3,
+      "api": "csp_SoAiQuanPanGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -1181,7 +1190,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
